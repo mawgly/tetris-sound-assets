@@ -1,0 +1,9 @@
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Временные файлы
+*.tmp
+*.log
